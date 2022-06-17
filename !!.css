@@ -75,11 +75,12 @@ a {
     display: flex;
 }
 
-.header__li {
+ПРОВЕРИТЬ
+.header__item {
     position: relative;
 }
 
-.header__li:not(:last-child) {
+.header__item:not(:last-child) {} {
     margin-right: 50px;
 }
 
