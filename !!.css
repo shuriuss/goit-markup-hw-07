@@ -516,7 +516,6 @@ a {
 }
 
 .address__link--color {
-    color: rgba(255, 255, 255, 0.6);
 
 }
 
@@ -822,8 +821,7 @@ a {
 
 .bid__field {
     position: relative;
-    
-    margin-bottom: 10px;
+        margin-bottom: 10px;
 
 
 }
